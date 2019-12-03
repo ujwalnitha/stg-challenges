@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f32da0-af8f-4c7d-8e90-63c9af754203" name="Default Changelist" comment="" />
+    <list default="true" id="39f32da0-af8f-4c7d-8e90-63c9af754203" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/challenge2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge2/challenge2_assert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge1/challenge1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="275">
               <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -25,10 +29,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge1/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="187">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/challenge2/challenge2_assert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
               <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -40,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+            <state relative-caret-position="133">
+              <caret line="331" column="36" selection-start-line="331" selection-start-column="6" selection-end-line="331" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -49,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/by.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
+            <state relative-caret-position="131">
               <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
@@ -64,6 +80,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,6 +90,7 @@
         <option value="$PROJECT_DIR$/challenge1/challenge1.py" />
         <option value="$PROJECT_DIR$/challenge1/Login.py" />
         <option value="$PROJECT_DIR$/challenge1/login.py" />
+        <option value="$PROJECT_DIR$/challenge2/challenge2_assert.py" />
       </list>
     </option>
   </component>
@@ -79,6 +99,9 @@
     <option name="y" value="126" />
     <option name="width" value="2160" />
     <option name="height" value="1170" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,7 +119,7 @@
             <path>
               <item name="challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge1" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,42 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for login.login.test_login">
-    <configuration name="test_searchTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge1/test_searchTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for challenge1.Challenge1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;challenge1.Challenge1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert">
     <configuration name="Unittests for challenge1.Challenge1.test_challenge1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +157,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;challenge1.Challenge1.test_challenge1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;challenge2_assert.challenge2_assert.test_challenge2_assert&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -200,13 +202,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in challenge2_assert.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/challenge2/challenge2_assert.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" />
+        <item itemvalue="Python tests.Unittests in challenge2_assert.py" />
         <item itemvalue="Python tests.Unittests for login.login.test_login" />
         <item itemvalue="Python tests.Unittests for challenge1.Challenge1.test_challenge1" />
         <item itemvalue="Python tests.Unittests for login.login" />
-        <item itemvalue="Python tests.Unittests for challenge1.Challenge1" />
-        <item itemvalue="Python.test_searchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -224,35 +240,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 26m 01s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 00h 42m 50s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 26m 55s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 00h 43m 47s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 41m 44s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 00h 45m 47s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 43m 15s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 00h 46m 59s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_challenge1_Challenge1_test_challenge1 - 2019.12.02 at 21h 44m 01s.xml">
-      <configuration name="Unittests for challenge1.Challenge1.test_challenge1" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 00m 35s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 44m 36s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 01m 27s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 48m 12s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 02m 21s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 48m 54s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 04m 30s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 52m 06s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 05m 20s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_login_login_test_login - 2019.12.02 at 21h 57m 21s.xml">
-      <configuration name="Unittests for login.login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_challenge2_assert_challenge2_assert_test_challenge2_assert - 2019.12.03 at 01h 07m 08s.xml">
+      <configuration name="Unittests for challenge2_assert.challenge2_assert.test_challenge2_assert" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -266,13 +282,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.2782194" />
-      <window_info id="Structure" order="1" sideWeight="0.50374067" side_tool="true" visible="true" weight="0.2782194" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49491525" visible="true" weight="0.2782194" />
+      <window_info id="Structure" order="1" sideWeight="0.50508475" side_tool="true" visible="true" weight="0.2782194" />
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28774422" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47602132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,21 +316,24 @@
     <entry file="file://$PROJECT_DIR$/challenge1/debug.log" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/by.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="131">
           <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+    <entry file="file://$PROJECT_DIR$/challenge1/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        <state relative-caret-position="187">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge1/challenge1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
+        <state relative-caret-position="275">
           <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -321,9 +341,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge1/login.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="133">
+          <caret line="331" column="36" selection-start-line="331" selection-start-column="6" selection-end-line="331" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge2/challenge2_assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
           <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
