@@ -1,11 +1,9 @@
 
-# This is a simple practice code to send keys on an element
+# This is a simple practice code to send access an element and get properties
 # __author__ = Nitha Ujwal
 
 import unittest
-import time
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
 
 class ElementAccess(unittest.TestCase):
