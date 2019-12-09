@@ -22,11 +22,11 @@ class ElementAccess(unittest.TestCase):
         element = driver.find_element_by_id("id-search-field")
         print("Element Type (Tag name): %s" % element.tag_name)
         element = driver.find_element_by_name("q")
-        print("Element Text (text): %s" % element.get_property("name"))
+        print("Element Name : %s" % element.get_property("name"))
         element = driver.find_element_by_class_name("search-field")
-        print("Element Text (text): %s" % element.get_property("id"))
+        print("Element id : %s" % element.get_property("id"))
         element = driver.find_element_by_xpath("//input[@name='q']")
-        print("Element Text (text): %s" % element.get_property("placeholder"))
+        print("Element Placeholder: %s" % element.get_property("placeholder"))
 
 
 if __name__ == '__main__':
