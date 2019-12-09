@@ -33,8 +33,10 @@ class challenge2_copart(unittest.TestCase):
         result_element = wait.until(EC.presence_of_element_located(
             (By.XPATH, "//*[@id=\"serverSideDataTable\"]")))
         print("Printing all result table" + result_element.text)
+
+        #Assert for Text
         self.assertIn("PORSCHE", result_element.text)
-        
+
 
 if __name__ == '__main__':
     unittest.main()
