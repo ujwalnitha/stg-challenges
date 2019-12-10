@@ -1,6 +1,7 @@
 class NumberToWords(object):
 
-    def get__number_sentence(self, number=1):
+    @staticmethod
+    def get_number_sentence(number=1):
 
         assert number >= 0, "Invalid number, must be > 0"
 
@@ -9,7 +10,7 @@ class NumberToWords(object):
         # Print number words
         temp = number
         number_sentence = ""
-        print("---------OUTPUT-----------")
+
         if number == 0:
             print(str(number) + " - " + str(number_words[0]))
             return

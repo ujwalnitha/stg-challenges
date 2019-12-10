@@ -1,3 +1,4 @@
+# Get User input, find Fibonacci number of given order and convert to number sentence
 
 import unittest
 
@@ -17,12 +18,11 @@ class Challenge4(unittest.TestCase):
             assert False, "Invalid input, please enter a number > 0"
 
         # Get Fibonacci number
-        fib_obj = MyFibonacci()
-        fibonacci_number = fib_obj.get_fibonacci_number(order)
+        fibonacci_number = MyFibonacci.get_fibonacci_number(order)
 
         # Covert to string
-        number_to_string_obj = NumberToWords()
-        number_to_string_obj.get__number_sentence(fibonacci_number)
+        print("---------OUTPUT-----------")
+        NumberToWords.get_number_sentence(fibonacci_number)
 
 
 if __name__ == '__main__':
