@@ -21,8 +21,9 @@ class Challenge4(unittest.TestCase):
         fibonacci_number = MyFibonacci.get_fibonacci_number(order)
 
         # Covert to string
+        number_sentence = NumberToWords.get_number_sentence(fibonacci_number)
         print("---------OUTPUT-----------")
-        NumberToWords.get_number_sentence(fibonacci_number)
+        print(str(fibonacci_number) + " - " + str(number_sentence))
 
 
 if __name__ == '__main__':
