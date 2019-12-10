@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39f32da0-af8f-4c7d-8e90-63c9af754203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge4/NumberToWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge4/NumberToWords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge3/challenge3_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge3/challenge3_loop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-              <folding>
-                <element signature="e#1#16#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="366">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -32,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge1/challenge1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="323">
               <caret line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -49,26 +45,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge4/MyFibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="357">
               <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge4/NumberToWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="221">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="196">
+              <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -79,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning/simple_key_sending.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="408">
               <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding>
                 <element signature="e#89#104#0" expanded="true" />
@@ -147,18 +143,18 @@
         <option value="$PROJECT_DIR$/challenge2/challenge2_not_using_contains.py" />
         <option value="$PROJECT_DIR$/challenge4/__init__.py" />
         <option value="$PROJECT_DIR$/challenge4/Fibonacci.py" />
-        <option value="$PROJECT_DIR$/challenge3/challenge3_loop.py" />
         <option value="$PROJECT_DIR$/challenge4/MyFibonacci.py" />
         <option value="$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py" />
         <option value="$PROJECT_DIR$/challenge4/NumberToWords.py" />
+        <option value="$PROJECT_DIR$/challenge3/challenge3_loop.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in OperatoresAndFunctions.py">
+  <component name="RunManager" selected="Python tests.Unittests in challenge3_loop.py">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in challenge3_loop.py" />
+        <item itemvalue="Python tests.Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" />
         <item itemvalue="Python tests.Unittests in OperatoresAndFunctions.py" />
         <item itemvalue="Python tests.Unittests for OperatoresAndFunctions.Challenge4.test_operators_functions" />
         <item itemvalue="Python.Fibonacci" />
-        <item itemvalue="Python tests.Unittests in challenge3_loop.py" />
-        <item itemvalue="Python tests.Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -317,35 +313,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 12h 41m 02s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 00m 05s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 00m 18s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 00m 23s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_OperatoresAndFunctions_Challenge4_test_operators_functions - 2019.12.10 at 13h 20m 41s.xml">
-      <configuration name="Unittests for OperatoresAndFunctions.Challenge4.test_operators_functions" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 20m 54s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 21m 02s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 22m 16s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 22m 21s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 22m 53s.xml">
       <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 13s.xml">
+      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 31s.xml">
+      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 39s.xml">
+      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 46s.xml">
+      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 56s.xml">
+      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 04m 08s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 24m 10s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 32m 25s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 39m 54s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -358,21 +354,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4835391" visible="true" weight="0.2575392" />
-      <window_info id="Structure" order="1" sideWeight="0.5164609" side_tool="true" visible="true" weight="0.2575392" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4834025" visible="true" weight="0.25675675" />
+      <window_info id="Structure" order="1" sideWeight="0.5165975" side_tool="true" visible="true" weight="0.25675675" />
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45576707" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14387211" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2049272" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20426288" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -428,6 +423,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge1/challenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge4/MyFibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge4/NumberToWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/simple_key_sending.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#89#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning/accessing_element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -455,60 +494,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge1/challenge1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning/simple_key_sending.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <element signature="e#89#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="196">
+          <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge4/MyFibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding>
-            <element signature="e#1#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge4/NumberToWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
