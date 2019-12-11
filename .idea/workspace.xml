@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="425">
               <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+            <state relative-caret-position="331">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -211,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in challenge3_loop.py">
+  <component name="RunManager" selected="Python tests.Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,8 +291,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in challenge3_loop.py" />
         <item itemvalue="Python tests.Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" />
+        <item itemvalue="Python tests.Unittests in challenge3_loop.py" />
         <item itemvalue="Python tests.Unittests in OperatoresAndFunctions.py" />
         <item itemvalue="Python tests.Unittests for OperatoresAndFunctions.Challenge4.test_operators_functions" />
         <item itemvalue="Python.Fibonacci" />
@@ -313,18 +313,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 22m 53s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 13s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 31s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 39s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 46s.xml">
       <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
     </history-entry>
@@ -343,6 +331,18 @@
     <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 39m 54s.xml">
       <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 50m 33s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 51m 16s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 51m 42s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 20h 39m 23s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,13 +355,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4834025" visible="true" weight="0.25675675" />
-      <window_info id="Structure" order="1" sideWeight="0.5165975" side_tool="true" visible="true" weight="0.25675675" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4802495" visible="true" weight="0.25675675" />
+      <window_info id="Structure" order="1" sideWeight="0.51975054" side_tool="true" visible="true" weight="0.25675675" />
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14387211" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14564832" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,7 +426,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge4/OperatoresAndFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="425">
           <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
@@ -496,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="24" column="93" lean-forward="true" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+        <state relative-caret-position="331">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
