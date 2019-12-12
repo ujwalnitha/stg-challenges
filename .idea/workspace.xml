@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="340">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -313,27 +313,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 46s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_OperatoresAndFunctions_py - 2019.12.10 at 13h 23m 56s.xml">
-      <configuration name="Unittests in OperatoresAndFunctions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 04m 08s.xml">
-      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 24m 10s.xml">
-      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 32m 25s.xml">
-      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 39m 54s.xml">
-      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 15h 50m 33s.xml">
-      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 15h 51m 16s.xml">
       <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
     </history-entry>
@@ -342,6 +321,27 @@
     </history-entry>
     <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.10 at 20h 39m 23s.xml">
       <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 20h 51m 24s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.10 at 20h 51m 54s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.12 at 10h 30m 59s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.12 at 10h 34m 19s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.12 at 10h 34m 40s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_challenge3_loop_Challenge3Loop_test_challenge3_loop - 2019.12.12 at 10h 35m 53s.xml">
+      <configuration name="Unittests for challenge3_loop.Challenge3Loop.test_challenge3_loop" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_challenge3_loop_py - 2019.12.12 at 10h 36m 47s.xml">
+      <configuration name="Unittests in challenge3_loop.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -354,15 +354,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4802495" visible="true" weight="0.25675675" />
-      <window_info id="Structure" order="1" sideWeight="0.51975054" side_tool="true" visible="true" weight="0.25675675" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48019803" visible="true" weight="0.25633293" />
+      <window_info id="Structure" order="1" sideWeight="0.519802" side_tool="true" visible="true" weight="0.25633293" />
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14564832" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32138857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge3/challenge3_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

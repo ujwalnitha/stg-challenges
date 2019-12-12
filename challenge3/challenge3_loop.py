@@ -21,7 +21,7 @@ class Challenge3Loop(unittest.TestCase):
         wait = WebDriverWait(self.driver, 15)
         wait.until(ec.presence_of_element_located((By.LINK_TEXT, "Trending")))
 
-        # Find all elements under tag tabTrending->a
+        # Find all elements under tag popular searches->a
         all_trending_elements = self.driver.find_elements_by_xpath("//*[@ng-if=\"popularSearches\"]//a")
         # Print all items and href
         for item in all_trending_elements:
