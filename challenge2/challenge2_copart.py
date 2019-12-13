@@ -1,6 +1,7 @@
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -18,11 +19,12 @@ class challenge2_copart(unittest.TestCase):
         self.driver.get("https://www.copart.com/")
 
         # Search
-        self.driver.find_element_by_id('input-search').click()
-        self.driver.find_element_by_id('input-search').send_keys("exotics")
-        self.driver.find_element_by_xpath("//button[contains(.,'Search')]").click()
+        search_text_box = self.driver.find_element_by_xpath("//*[@id=\"input-search\"]")
+        search_text_box.click()
+        search_text_box.send_keys("exotics")
+        search_text_box.send_keys(Keys.RETURN)
 
-        # Verify if PORCHE is listed under model section
+        # Verify if PORSCHE is listed under model section
         wait = WebDriverWait(self.driver, 15)
         result_span_element = wait.until(EC.presence_of_element_located((By.XPATH, "//span[contains(.,'PORSCHE')]")))
         text_found = result_span_element.text
