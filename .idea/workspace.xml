@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f32da0-af8f-4c7d-8e90-63c9af754203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/challenge5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge5/search_challenge5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge5/search_challenge5.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge5/search_challenge5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning/basics1_addition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge4/MyFibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,8 +63,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge5/search_challenge5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="53" column="53" lean-forward="true" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+            <state relative-caret-position="215">
+              <caret line="33" column="152" selection-start-line="33" selection-start-column="152" selection-end-line="33" selection-end-column="152" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge2/challenge2_copart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="28" column="117" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="117" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -356,12 +357,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 12h 13m 11s.xml">
-      <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 12h 14m 08s.xml">
-      <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 12h 54m 38s.xml">
       <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
     </history-entry>
@@ -386,6 +381,12 @@
     <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 13h 28m 00s.xml">
       <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 14h 18m 41s.xml">
+      <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_search_challenge5_SearchChallenge5_test_challenge5 - 2019.12.17 at 14h 19m 29s.xml">
+      <configuration name="Unittests for search_challenge5.SearchChallenge5.test_challenge5" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,7 +406,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5531915" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23180291" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37961927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,16 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge2/challenge2_copart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -657,10 +648,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/challenge2/challenge2_copart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="28" column="117" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="117" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/challenge5/search_challenge5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="53" column="53" lean-forward="true" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+        <state relative-caret-position="215">
+          <caret line="33" column="152" selection-start-line="33" selection-start-column="152" selection-end-line="33" selection-end-column="152" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

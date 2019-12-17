@@ -33,7 +33,7 @@ class SearchChallenge5(unittest.TestCase):
         # Select 100 from drop down
         drop_down_element = wait.until(EC.presence_of_element_located((By.XPATH,"//*[@id=\"serverSideDataTable_length\"]/label/select/option[@value=\"100\"]")))
         drop_down_element.click()
-        time.sleep(10)
+        wait.until(EC.presence_of_element_located((By.XPATH, "//*[@id=\"serverSideDataTable_processing\"][contains(@style, 'display: none')]")))
 
         # Find all models
         result_element = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//*[@data-uname=\"lotsearchLotmodel\"]")))
