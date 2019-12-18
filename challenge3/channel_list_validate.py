@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 
-class Challenge3Loop(unittest.TestCase):
+class Challenge3ChannelListValidation(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome("../chromedriver.exe")
@@ -14,7 +14,7 @@ class Challenge3Loop(unittest.TestCase):
     def tearDown(self):
         self.driver.close()
 
-    def test_challenge3_loop(self):
+    def test_challenge3_channel_list_validation(self):
         # Open Web page
         self.driver.get("https://sling.com")
 

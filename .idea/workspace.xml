@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f32da0-af8f-4c7d-8e90-63c9af754203" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/challenge3/channel_list_validate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge5/search_challenge5.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge5/search_challenge5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge3/channel_list_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge3/channel_list_validate.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge3/channel_list_validate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="202">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -209,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for channel_list_validate.Challenge3Loop">
+  <component name="RunManager" selected="Python tests.Unittests for channel_list_validate.Challenge3ChannelListValidation.test_challenge3_channel_list_validation">
     <configuration name="basics10_fibonacci_to_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,25 +229,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basics9_number_to_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for channel_list_validate.Challenge3ChannelListValidation.test_challenge3_channel_list_validation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenge3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning/basics9_number_to_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;channel_list_validate.Challenge3ChannelListValidation.test_challenge3_channel_list_validation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests for channel_list_validate.Challenge3Loop" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -296,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for channel_list_validate.Challenge3ChannelListValidation.test_challenge3_channel_list_validation" />
         <item itemvalue="Python tests.Unittests for channel_list_validate.Challenge3Loop" />
         <item itemvalue="Python tests.Unittests for channel_list_validate.Challenge3Loop.test_challenge3_loop" />
         <item itemvalue="Python tests.Unittests for search_challenge5.SearchChallenge5.test_challenge5" />
         <item itemvalue="Python.basics10_fibonacci_to_words" />
-        <item itemvalue="Python.basics9_number_to_words" />
       </list>
     </recent_temporary>
   </component>
@@ -367,13 +358,13 @@
       <window_info id="Favorites" order="2" sideWeight="0.5029586" side_tool="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.033594623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033594623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37961927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26763716" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26651737" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -631,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge3/channel_list_validate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="202">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
