@@ -4,6 +4,7 @@ List to store all number words
 https://www.w3schools.com/python/python_lists.asp
 
 Tokenize number and find corresponding word from list
+This method will just digits to words, not to a number sentence wrt to digit place
 '''
 
 number_words = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"]
