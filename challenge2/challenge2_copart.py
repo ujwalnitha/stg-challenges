@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class challenge2_copart(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.Chrome("../chromedriver.exe")
+        self.driver = webdriver.Chrome("../chromedriver")
 
     def tearDown(self):
         self.driver.close()
@@ -19,7 +19,7 @@ class challenge2_copart(unittest.TestCase):
         self.driver.get("https://www.copart.com/")
 
         # Search
-        search_text_box = self.driver.find_elements_by_xpath("//*[@id=\"input-search\"]")
+        search_text_box = self.driver.find_element_by_xpath("//*[@id=\"input-search\"]")
         search_text_box.click()
         search_text_box.send_keys("exotics")
         search_text_box.send_keys(Keys.RETURN)
