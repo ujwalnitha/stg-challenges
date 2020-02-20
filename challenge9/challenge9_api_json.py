@@ -1,5 +1,6 @@
 # https://www.dataquest.io/blog/python-api-tutorial/
 # Find data type of response json elements
+# Validate type of some response elements
 
 import unittest
 import requests
@@ -25,6 +26,9 @@ class Challenge9(unittest.TestCase):
         for item in response_list:
             for key,val in item.items():
                 print("{} : {}".format(key,type(val).__name__))
+                if key == 'title' or key == 'url':
+                    assert isinstance(val, str), " Value of '{}' is not expected type".format(key)
 
-if __name__ == '__main__':
-    unittest.main()
+
+    if __name__ == '__main__':
+        unittest.main()
