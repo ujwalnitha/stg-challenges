@@ -5,6 +5,7 @@ Capture screen shot in Error handling code
 
 
 #import traceback
+import time
 import unittest
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
@@ -17,7 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class ExceptionChallenge6(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.Chrome("../chromedriver.exe")
+        self.driver = webdriver.Chrome("../chromedriver")
 
     def tearDown(self):
         self.driver.close()
@@ -53,7 +54,8 @@ class ExceptionChallenge6(unittest.TestCase):
         except TimeoutException:
             print("No search result, capturing screen shot")
             # traceback.print_exc()     # If detailed stack trace is required
-            self.driver.save_screenshot("search_no_result.png")
+            timestamp = str(time.time()).split('.')[0]
+            self.driver.save_screenshot("./ErrorScreenshots/search_no_result%s.png" %(timestamp))
 
 
 if __name__ == '__main__':

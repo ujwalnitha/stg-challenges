@@ -1,0 +1,29 @@
+{
+    "internal": {
+        "http://help.sling.com/en/support/solutions/articles/33000218998-how-do-i-navigate-the-guide-": 200,
+        "http://help.sling.com/en/support/solutions/articles/33000219129-how-do-i-sign-up-for-sling-tv-": 200,
+        "http://help.sling.com/en/support/solutions/articles/33000219150-how-do-i-set-up-my-airtv-": 200,
+        "http://help.sling.com/en/support/tickets/new?missing_local_channel=true": 200,
+        "http://help.sling.com/iplookup": 403,
+        "http://help.sling.com/servlet/rtaImage?eid=kaB61000000GnkA&feoid=00NE00000067WAp&refid=0EM61000000YIn2": 404,
+        "https://help.sling.com": 200,
+        "https://help.sling.com/en/support/search?authenticity_token=e79lrRCspah0r0UxXYK2oCY3xI4bHkGtvcWeuEfnwa8%3D&page=1&term=DISPOSITIVOS": 200,
+        "https://help.sling.com/en/support/solutions/articles/33000219138-how-do-i-cancel-sling-tv-": 200,
+        "https://help.sling.com/en/support/solutions/articles/33000219141-how-do-i-restart-my-subscription-": 200,
+        "https://help.sling.com/en/support/solutions/articles/33000220320-why-is-my-game-or-event-blacked-out-": 200,
+        "https://help.sling.com/en/support/solutions/articles/33000224119-why-can-t-i-find-my-game-on-a-regional-sports-network-": 200,
+        "https://help.sling.com/en/support/solutions/folders/33000205183": 200,
+        "https://help.sling.com/en/support/tickets/new?contact=true": 200,
+        "https://help.sling.com/es/support/search?authenticity_token=e79lrRCspah0r0UxXYK2oCY3xI4bHkGtvcWeuEfnwa8%3D&page=1&term=DISPOSITIVOS": 200,
+        "https://help.sling.com/es/support/search?authenticity_token=e79lrRCspah0r0UxXYK2oCY3xI4bHkGtvcWeuEfnwa8%3D&page=2&term=DISPOSITIVOS": 200,
+        "https://help.sling.com/es/support/search?term=DISPOSITIVOS&authenticity_token=e79lrRCspah0r0UxXYK2oCY3xI4bHkGtvcWeuEfnwa8%3D": 200,
+        "https://help.sling.com/es/support/solutions/articles/33000219138--c%C3%B3mo-cancelo-sling-tv-": 200,
+        "https://help.sling.com/es/support/solutions/articles/33000219141--c%C3%B3mo-reinicio-mi-suscripci%C3%B3n-": 200,
+        "https://help.sling.com/es/support/solutions/articles/33000219350--qu%C3%A9-partidos-de-f%C3%BAtbol-puedo-ver-en-la-tv-esta-semana-": 200,
+        "https://help.sling.com/es/support/solutions/articles/33000221411--sabes-lo-que-es-un-dispositivo-de-streaming-ac%C3%A1-te-explicamos-lo-que-es-ya-no-hace-falta-el-sat": 200,
+        "https://help.sling.com/es/support/solutions/articles/33000224119-why-can-t-i-find-my-game-on-a-regional-sports-network-": 200,
+        "https://help.sling.com/es/support/solutions/folders/33000205183": 200,
+        "https://help.sling.com/es/support/tickets/new?contact=true": 200,
+        "https://help.sling.com/support/solutions/articles/33000219129-how-do-i-sign-up-for-sling-tv-#Top": 200
+    }
+}
